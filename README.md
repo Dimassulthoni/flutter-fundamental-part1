@@ -6,4 +6,4 @@ A new Flutter project.
 ![Screenshot hello_world](images/01.png)
 
 ## Praktikum 3
-![Screenshot widget](images/02.png)
+![Screenshot widget](images/03.png)
